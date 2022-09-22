@@ -1,10 +1,12 @@
 <br><br> 
 <div align="center">
 <img src="https://eleva.it/assets/imgs/home/eleva-logo-full.svg" align="center" height="50px" width="" />
+<br><br><br>
+<img src="https://github.com/davide-desio-eleva/davide-desio-eleva/blob/main/header.png?raw=true" />
 </div>  
 <br>
 
-## <div align="center">I'm Davide, a Software Solutions Architect & Lead 👨‍💻<br> working in Eleva since 2015 🚀</div>  
+## <div align="center">Software Solutions Architect & Lead 👨‍💻<br> working in Eleva since 2015 🚀</div>  
 <div align="center">
 🔭 I’m currently working on several projects, leading our internal development team<br>
 ☁️ I'm an AWS Certified Solution Architect (Professional)<br>
