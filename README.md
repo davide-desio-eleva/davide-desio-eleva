@@ -1,13 +1,13 @@
 <br><br> 
 <img src="https://github.com/davide-desio-eleva/davide-desio-eleva/blob/main/header.png?raw=true" />
 
-## <img src="https://eleva.it/assets/imgs/home/eleva-logo-full.svg" align="center" height="50px" width="" />
 ### Head of Software Engineering / AWS Solutions Architect 👨‍💻<br> working in Eleva since 2015 🚀
 <div>
 🔭 I’m currently working on several projects, leading our internal development team<br>
-☁️ I'm an AWS Certified Solution Architect (Professional)<br>
+📝 I have a blog on <a target="_blank" href="https://dev.to/ddesio">dev.to</a>: you can find there skeletons, serverless architectures, AI and fun projects.<br>
+☁️ I'm an <a target="_blank" href="https://www.credly.com/earner/earned/share/9929fdf2-7a3d-4013-9de6-57c80e4920b9">AWS Certified Solution Architect (Professional)</a>, an AWS Community Builder, but also an AWS User Group Lead in Pavia and member of the AWS User Group Italy Family<br>
 ❓ Ask me about anything related to frontend, backend, hybrid apps development and AWS<br> 
-⚡ Fun fact: I love cats 🐈<br>
+⚡ Fun fact: I love cats 🐈 and music 𝄢 (I used to be the voice and bass of a <a target="_blank" href="https://soundcloud.com/melodiedistorte">punk rock band</a><br>
 </div>
 
 ## My Skill Set
@@ -50,10 +50,3 @@
 <a href="https://linkedin.com/in/desiodavide" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-## Music
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=davide-desio-eleva&show_icons=true&count_private=true&hide_border=true" align="center" /> 
-<br>
--->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=1166736214&cover_image=false&theme=default" /> 
