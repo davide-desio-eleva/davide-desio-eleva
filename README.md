@@ -10,6 +10,8 @@
 ⚡ Fun fact: I love cats 🐈 and music 𝄢 (I used to be the voice and bass of a <a target="_blank" href="https://soundcloud.com/melodiedistorte">punk rock band</a><br>
 </div>
 
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 ## My Skill Set
 <table>
   <tr>
