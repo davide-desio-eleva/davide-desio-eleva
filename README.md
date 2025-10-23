@@ -10,6 +10,7 @@
 ⚡ Fun fact: I love cats 🐈 and music 𝄢 (I used to be the voice and bass of a <a target="_blank" href="https://soundcloud.com/melodiedistorte">punk rock band</a><br>
 </div>
 
+### My blog on dev.to
 <!-- BLOG-POST-LIST:START -->
 - [🤖 RAG on AWS: Building an AI-powered Knowledge Base, with Amazon Bedrock and S3 Vectors](https://dev.to/aws-builders/rag-on-aws-building-an-ai-powered-knowledge-base-with-amazon-bedrock-and-s3-vectors-11kc)
 - [🚦 Add guardrails to your Strands Agent in zero time with Amazon Bedrock Guardrails](https://dev.to/aws-builders/add-guardrails-to-your-strands-agent-in-zero-time-with-amazon-bedrock-guardrails-1gam)
