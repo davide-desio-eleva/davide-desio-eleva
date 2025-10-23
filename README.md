@@ -10,7 +10,13 @@
 ⚡ Fun fact: I love cats 🐈 and music 𝄢 (I used to be the voice and bass of a <a target="_blank" href="https://soundcloud.com/melodiedistorte">punk rock band</a><br>
 </div>
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [🤖 RAG on AWS: Building an AI-powered Knowledge Base, with Amazon Bedrock and S3 Vectors](https://dev.to/aws-builders/rag-on-aws-building-an-ai-powered-knowledge-base-with-amazon-bedrock-and-s3-vectors-11kc)
+- [🚦 Add guardrails to your Strands Agent in zero time with Amazon Bedrock Guardrails](https://dev.to/aws-builders/add-guardrails-to-your-strands-agent-in-zero-time-with-amazon-bedrock-guardrails-1gam)
+- [🧬 Build a serverless agent with persistent context using Strands Agents SDK 📝](https://dev.to/aws-builders/build-a-serverless-agent-with-persistent-context-using-strands-agents-sdk-4phh)
+- [🤖 Deploy your first AI agent with Strands Agents SDK 🤖](https://dev.to/aws-builders/deploy-your-first-ai-agent-with-strands-agents-sdk-j85)
+- [🚀 Let&#39;s use SAM: rebuilding our minimal serverless MCP server](https://dev.to/aws-builders/lets-use-sam-rebuilding-our-minimal-serverless-mcp-server-4k99)
+<!-- BLOG-POST-LIST:END -->
 
 ## My Skill Set
 <table>
